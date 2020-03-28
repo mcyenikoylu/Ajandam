@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ajandam">
+</Property><Property Name="Solution File" Value="D:\Documents and Settings\Administrator\Desktop\Ajandam\Ajandam.sln">
+</Property><Property Name="User Options File" Value="D:\Documents and Settings\Administrator\Desktop\Ajandam\Ajandam.suo">
+</Property><Property Name="Date" Value="03 Aralık 2006 Pazar">
+</Property><Property Name="Time" Value="12:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ajandam.sln" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\Ajandam.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ajandam.suo" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\Ajandam.suo">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="Ajandam.csproj" Description="Project file successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\Ajandam.csproj">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="Ajandam.csproj.user" Description="Project user file successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\Ajandam.csproj.user">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="conn.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\conn.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_anasayfa.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_anasayfa.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_fihristAc.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_fihristAc.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_giris.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_giris.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_hareketAc.cs" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_hareketAc.cs">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="App.ico" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_anasayfa.resx" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_anasayfa.resx">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_fihristAc.resx" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_fihristAc.resx">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_giris.resx" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_giris.resx">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="frm_hareketAc.resx" Description="File successfully backed up as D:\Documents and Settings\Administrator\Desktop\Ajandam\Backup\frm_hareketAc.resx">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="Ajandam.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ajandam" Source="Ajandam.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ajandam.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ajandam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ajandam" Source="Ajandam.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

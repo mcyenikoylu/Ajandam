@@ -1,0 +1,13 @@
+obj\Debug\Ajandam.exe
+obj\Debug\Ajandam.pdb
+bin\Debug\Ajandam.exe
+bin\Debug\Ajandam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ajandam.frm_anasayfa.resources
+obj\Debug\Ajandam.frm_fihristAc.resources
+obj\Debug\Ajandam.Ajandam.resources
+obj\Debug\Ajandam.frm_hareketAc.resources
+obj\Debug\Ajandam.csproj.GenerateResource.Cache
+obj\Debug\Ajandam.frm_fihristAra.resources
+obj\Debug\Ajandam.frm_up.resources
+obj\Debug\Ajandam.Properties.Resources.resources
